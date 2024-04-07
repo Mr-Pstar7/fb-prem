@@ -36,11 +36,10 @@ This is a simple Python script for Multi bruteforce Facebook.
  python fb-prem.py
 ```
 
-The script will start unfollowing users who do not follow you back on Instagram. Please be patient as it might take some time depending on the number of users being unfollowed.
-
+This script will run and start bruteforce the Facebook account.
 ## Disclaimer
 
-This script is for educational purposes only. Use it responsibly and at your own risk. This tool is not affiliated with or endorsed by Instagram.
+This script is for educational purposes only. Use it responsibly and at your own risk. This tool is not affiliated with or endorsed by Facebook.
 
 ## Contributing
 
